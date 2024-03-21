@@ -28,3 +28,6 @@ int main(){
 
    return 0;
 }
+
+*******************  DEFINIÇÃO DO ALGORITMO  *****************
+Código calcula equação usando fórmula de Bhaskara.
