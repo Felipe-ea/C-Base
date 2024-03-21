@@ -1,0 +1,25 @@
+#include <stdio.h>
+#include <string.h>
+
+int main()
+{
+
+    char nome[50];
+    double valorHora, pagamento;
+    int qtdHoras;
+
+    printf("Nome: ");
+    fgets(nome, 50, stdin);
+
+    printf("Valor por hora: ");
+    scanf("%lf", &valorHora);
+
+    printf("Horas trabalhadas: ");
+    scanf("%i", &qtdHoras);
+
+    pagamento = qtdHoras * valorHora;
+
+    printf("O pagamento para %s deve ser %.2lf\n", nome, pagamento);
+
+    return 0;
+}
