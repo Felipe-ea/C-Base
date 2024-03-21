@@ -35,3 +35,6 @@ int main(){
 
 return 0;
 }
+
+*******************  DEFINIÇÃO DO ALGORITMO  *****************
+Código verifica e indica em qual quadrante se encontra a coordenada baseado nos pontos x e y.
