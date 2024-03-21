@@ -14,3 +14,6 @@ int main(){
 
    return 0;
 }
+
+*******************  DEFINIÇÃO DO ALGORITMO  *****************
+Código calcula a área de um círculo.
