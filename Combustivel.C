@@ -32,3 +32,6 @@ int main(){
 return 0;
 }
 
+*******************  DEFINIÇÃO DO ALGORITMO  *****************
+Código verifica e mostra quantas vezes foi usado determinado produto.
+
