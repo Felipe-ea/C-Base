@@ -18,3 +18,6 @@ int main(){
 
    return 0;
 }
+
+*******************  DEFINIÇÃO DO ALGORITMO  *****************
+Código calcula o gasto de combustível baseado a na distância percorrida.
